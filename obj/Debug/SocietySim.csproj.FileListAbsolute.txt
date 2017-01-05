@@ -1,0 +1,14 @@
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\bin\Debug\SocietySim.exe.config
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\bin\Debug\SocietySim.exe
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\bin\Debug\SocietySim.pdb
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.csprojResolveAssemblyReference.cache
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.Form1.resources
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.WarRoom.resources
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.Properties.Resources.resources
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.Quantity.resources
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.ServerConnection.resources
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.StatChart.resources
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.Treasury.resources
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.csproj.GenerateResource.Cache
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.exe
+C:\Users\Urens\Documents\Visual Studio 2015\Projects\SocietySim\SocietySim\obj\Debug\SocietySim.pdb
